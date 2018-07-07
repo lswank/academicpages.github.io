@@ -55,18 +55,6 @@ Urbane being awarded a spot in Tony Hsieh's "Downtown Project" startup accelerat
   * Business Developer
   * Apr 2012 – Dec 2012
   * Developed and executed on a strategy to expand into overseas markets, receive additional investment capital, and prepare for a merger or acquisition. Company successfully sold to Yellow Mobile.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
