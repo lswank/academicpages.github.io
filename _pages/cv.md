@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume here](http://lswank.github.io/files/SWANK-Resume.pdf)
+
 Education
 ======
 * M.S. in Computing, Computer Graphics Concentration, University of Utah, 2010
@@ -20,7 +22,10 @@ Education
 
 Work experience
 ======
-
+* IGNITE INNOVATORS
+  * Seoul, Korea
+  * Venture Partner and Entrepreneur in Residence
+  * October 2018 - Present
 * SEOUL GLOBAL STARTUP CENTER 
   * Seoul, Korea 
   * Startup Mentor and Technical Advisor 
